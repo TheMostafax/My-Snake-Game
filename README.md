@@ -26,7 +26,8 @@ A simple snake game using ReactJs and Tailwind (Responsive to mobile phones)
 
 <h3 align="left">Game page</h3>
 
-![game](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/2f6cb756-9e05-4794-8b8f-c21fa2adfcf7)
+![game](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/f123b284-9bbb-4168-89da-52e629bcc0ff)
+
 
 
 
