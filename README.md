@@ -9,7 +9,6 @@ A simple snake game using ReactJs and Tailwind (Responsive to mobile phones)
 
 
 
-
 <h3 align="left">Main Home page </h3>
 
 ![main screen](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/dc3b464a-ce78-4d0e-851d-add4e6bb35fc)
