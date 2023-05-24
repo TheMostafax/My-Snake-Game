@@ -18,12 +18,16 @@ A simple snake game using ReactJs and Tailwind (Responsive to mobile phones)
 
 <h3 align="left">About page</h3>
 
-![gui home win](https://github.com/TheMostafax/x-and-o-game-using-react/assets/81190585/5a3788e6-2b59-4cac-bffb-84ffe7c2b09b)
+![About](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/fed22322-961c-41bc-812a-acec1a3664ac)
+
+![about screen responsive](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/6c370f50-5a80-450e-b073-2e7ae41854e9)
+
 
 
 <h3 align="left">Game page</h3>
 
-![gui home win](https://github.com/TheMostafax/x-and-o-game-using-react/assets/81190585/5a3788e6-2b59-4cac-bffb-84ffe7c2b09b)
+![game](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/2f6cb756-9e05-4794-8b8f-c21fa2adfcf7)
+
 
 
 
