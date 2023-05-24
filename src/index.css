@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#snake{   margin: 0;
+  padding: 0;
+  overflow: hidden;}
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+.row {
+    display: flex;
+  }
+  
+  .cell {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(20 83 45 / var(--tw-bg-opacity));
+  }
+  
+  .snake {
+    background-color: rgb(0, 0, 0);
+  }
+  .food-image {
+    height: 100%;
+    width: 100%;
+  }
+  .grid {
+    border-top: 5px solid red;
+    border-right: 5px solid red;
+    border-bottom: 5px solid red;
+    border-left: 5px solid red;
+  }
+  
