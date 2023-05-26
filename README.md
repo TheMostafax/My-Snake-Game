@@ -1,17 +1,8 @@
 # My-Snake-Game
-
-<h1 align="left">Project Description </h1>
-
-A simple Mobile App using Dart language and Flutter for visualization, My Art Gallery is a mobile application that allows me to show my artworks to a wider audience.
-
-I am still working on some new features, this is just phase 1.
+A simple snake game using ReactJs and Tailwind (Responsive for mobile phones)
 
 
-<h1 align="left">Demo</h1>
-
-
-
-https://github.com/TheMostafax/My-Snake-Game/assets/81190585/600dec0f-5a61-403f-962b-f005bc40ed90
+<h3 align="left">Live Demo: </h3>
 
 
 
@@ -19,38 +10,29 @@ https://github.com/TheMostafax/My-Snake-Game/assets/81190585/600dec0f-5a61-403f-
 
 
 
-<h3 align="left">First screen page </h3>
+<h3 align="left">Main Home page </h3>
 
-![First Screen](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/d2b01dd2-e1e2-4f2e-9505-b4f16e028b16)
+![main screen](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/dc3b464a-ce78-4d0e-851d-add4e6bb35fc)
 
-
-
-<h3 align="left">Home page</h3>
+![main screen responsive](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/7ca52c26-6020-48c3-9fd2-bf380d0f605c)
 
 
-![Home page](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/f5bccce4-a9b0-4ddc-809d-8d9cee5a14c5)
+<h3 align="left">About page</h3>
 
+![About](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/fed22322-961c-41bc-812a-acec1a3664ac)
 
-
-<h3 align="left">Details page</h3>
-
-
-![Details page](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/ec1eb586-bd97-4011-8658-858b236dd50f)
+![about screen responsive](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/6c370f50-5a80-450e-b073-2e7ae41854e9)
 
 
 
-<h3 align="left">About me page</h3>
+<h3 align="left">Game page</h3>
 
-![About me](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/5ce6913a-9f34-4240-b7f0-6acf781c4bdd)
-
-<h3 align="left">Each image details</h3>
-
-![images details 1](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/81eabda3-4cee-45ee-bb9a-1c2031320d2c)
+![game](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/f123b284-9bbb-4168-89da-52e629bcc0ff)
 
 
-![images details 2](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/30fde156-c2ff-4e5f-b201-02c046ce343f)
 
 
 
 <h1 align="left">Languages and Tools that used in this project: </h1>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
