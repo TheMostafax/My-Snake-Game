@@ -1,38 +1,64 @@
 # My-Snake-Game
-A simple snake game using ReactJs and Tailwind (Responsive for mobile phones)
 
+<h1 align="center">Project Description </h1>
 
-<h3 align="left">Live Demo: </h3>
-
-
-
-<h1 align="left">The GUI </h1>
+A simple Mobile App using Flutter, My Art Gallery is a mobile application that allows me to show my artworks to a wider audience.
 
 
 
-<h3 align="left">Main Home page </h3>
-
-![main screen](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/dc3b464a-ce78-4d0e-851d-add4e6bb35fc)
-
-![main screen responsive](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/7ca52c26-6020-48c3-9fd2-bf380d0f605c)
-
-
-<h3 align="left">About page</h3>
-
-![About](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/fed22322-961c-41bc-812a-acec1a3664ac)
-
-![about screen responsive](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/6c370f50-5a80-450e-b073-2e7ae41854e9)
-
-
-
-<h3 align="left">Game page</h3>
-
-![game](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/f123b284-9bbb-4168-89da-52e629bcc0ff)
+<h1 align="center">Notes</h1>
+<h4 align="left">1. I am still working on some new features, this is just phase one.</h4>
+<h4 align="left">2. There are some spelling mistakes in the demo due to fast typing, but I fixed them in the code. </h4>
+<h4 align="left">3. I didn't upload my artworks images in the assets folder to avoid any problem.</h4>
 
 
 
 
+<h1 align="center">Demo</h1>
 
-<h1 align="left">Languages and Tools that used in this project: </h1>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://tailwindcss.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+
+https://github.com/TheMostafax/My-Snake-Game/assets/81190585/600dec0f-5a61-403f-962b-f005bc40ed90
+
+
+
+<h1 align="center">The GUI</h1>
+
+
+
+<h3 align="center">First screen page</h3>
+
+![First Screen](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/5c18eb74-c3e8-4cf6-a9a1-2e2190cbff11)
+
+
+
+<h3 align="center">Home page/h3>
+
+![Home page](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/562673d1-1fe0-4a57-95ea-4a5bf1297920)
+
+
+
+<h3 align="center">Details page</h3>
+
+
+![Details page](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/b9b30b46-690a-44d1-975f-79e156a43163)
+
+
+
+
+<h3 align="center">Drawing details page</h3>
+
+
+![Drawing details](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/f6e65cba-5129-47bf-87f0-d9e06fe7b112)
+
+
+
+<h3 align="center">About me page </h3>
+
+
+![About](https://github.com/TheMostafax/My-Snake-Game/assets/81190585/b637cefe-4be1-4e50-8c94-5e332faedb21)
+
+
+
+<h1 align="center">Languages and Tools that used in this project</h1>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
