@@ -5,7 +5,6 @@ A simple snake game using ReactJs and Tailwind (Responsive for mobile phones)
 <h3 align="left">Live Demo: </h3>
 
 
-
 <h1 align="left">The GUI </h1>
 
 
